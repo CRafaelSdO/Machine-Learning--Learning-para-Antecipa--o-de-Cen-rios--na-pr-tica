@@ -1,6 +1,12 @@
-# Machine Learning (Learning para Antecipação de Cenários) na prática.
+# Atividade prática:
 
-Disciplina: **Prática Integradora de Ciência de Dados**
-**_Aula 6_ - Machine Learning (Learning para Antecipação de Cenários)**
+## Machine Learning (Learning para Antecipação de Cenários) na prática.
 
-by: Cicero Rafael Silva de Oliveira
+###### Disciplina: **Prática Integradora de Ciência de Dados**
+
+###### Aula 6 - **Machine Learning (Learning para Antecipação de Cenários)**
+
+Use `python src/main.py` para rodar o programa.
+
+Code by
+: _Cicero Rafael Silva de Oliveira_
